@@ -8,7 +8,7 @@ int averageMeasure = 0;  // Sum of the sound measures in an interval
 
 
 int Motor1 = 9;      //Pin to motor (doesn't care what motor)
-int Motor2 = 10;     //Pin to another motor
+int Motor2 = 11;     //Pin to another motor
 int sensorPin = A0;  //Analog input from sensor
 
 void setup() {
@@ -18,6 +18,8 @@ void setup() {
 void loop() {
   // read the value from the sensor
   sensorValue = analogRead(sensorPin);
+
+  //Serial.println(sensorValue);
   
   delay(1);
 
