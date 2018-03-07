@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a wearable bracelet that vibrates with the intensity of a music, with the goal to help deaf people to feel the music. He was developed on the Instrumentation and Control class 2017.2 of the Automation and System Departament, at Federal University of Santa Catarina (UFSC) in Brazil. This GitHub repository has the objective to share all the progress and try to find partners to continue the project.
+This project is a wearable bracelet that vibrates with the intensity of a music, with the goal to help deaf people to feel the music. He was developed on the Instrumentation and Control class (2017.2) of the Automation and Systems Departament (DAS), at Federal University of Santa Catarina (UFSC) in Brazil. This GitHub repository has the objective to share all the progress and try to find partners to continue the project.
 
 ## Description
 
